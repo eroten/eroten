@@ -32,9 +32,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          plugin_activity: yes
-          plugin_activity_limit: 5    # Limit to 5 events
-          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
-          plugin_activity_filter: issue, pr # Show all events (use table above to filter events types)
-          
-          
+          plugin_rss: yes
+          plugin_rss_source: https://lizroten.com/index.xml  # RSS feed
+          plugin_rss_limit: 6                                  # Limit to 6 items          
