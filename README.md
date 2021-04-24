@@ -1,4 +1,6 @@
-### Hi there 👋
+## Liz Roten
+### *Data Scientist and Cartographer*
+
 ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 <!--
