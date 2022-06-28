@@ -23,8 +23,6 @@ jobs:
           config_animations: yes
           config_timezone: America/Chicago
           
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, javascript
           
           plugin_lines: yes
           
